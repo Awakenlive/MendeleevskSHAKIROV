@@ -1,4 +1,4 @@
 def main():
-    print('112312313')
+    print('My first git-repo')
 if __name__ == '__main__':
     main()
